@@ -6,8 +6,11 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Vinicius Ferreira, 28, Desenvolvedor Full Stack em formação!
+Me chamo Vinicius, tenho 28 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev e também estou no 2° semestre de Análise e Desenvolvimento de Sistemas.
 
+Também sou músico autodidata, atuando como baterista da @bandarockstone e trabalho atualmente com Técnico em Informática.
+
+Dev em formação a procura de oportunidades!
 
 
 ---
@@ -15,16 +18,12 @@ Meu nome é Vinicius Ferreira, 28, Desenvolvedor Full Stack em formação!
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusBorgesFerreira&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
 ---
   
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
-    </a>
-  </p>
+
 
   ## Algumas Tecnologias
 
