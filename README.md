@@ -4,11 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinniekots)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tec.viniciusferreira.com)](mailto:tec.viniciusferreira@gmail.com)
 
-## Olá! <img src="https://github.com/ViniciusBorgesFerreira/ViniciusBorgesFerreira/blob/master/assets/hi.gif" width="22">
+## Olá! <img src="https://github.com/ViniciusBorgesFerreira/ViniciusBorgesFerreira/edit/master/assets/hi.gif" width="22">
 
 Me chamo Vinicius, tenho 28 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev e também estou no 2° semestre de Análise e Desenvolvimento de Sistemas.
 
-Também sou músico autodidata, atuando como baterista da <a target="_blank" href="https://www.instagram.com/bandarockstone/">@bandarockstone</a> e trabalho atualmente com Técnico em Informática.
+Também sou músico autodidata, atuando como baterista da <a href="https://www.instagram.com/bandarockstone/">@bandarockstone</a> e trabalho atualmente com Técnico em Informática.
 
 Dev em formação a procura de oportunidades!
 
@@ -35,5 +35,8 @@ Dev em formação a procura de oportunidades!
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
 </div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBorgesFerreira&langs_count=8)](https://github.com/ViniciusBorgesFerreira/github-readme-stats)
+
  
 
