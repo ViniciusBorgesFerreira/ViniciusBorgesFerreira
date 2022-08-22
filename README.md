@@ -8,7 +8,7 @@
 
 Me chamo Vinicius, tenho 28 anos, sou estudante da 10° Edição do Programa Starter Full Stack Developer-GrowDev e também estou no 2° semestre de Análise e Desenvolvimento de Sistemas.
 
-Também sou músico autodidata, atuando como baterista da @bandarockstone e trabalho atualmente com Técnico em Informática.
+Também sou músico autodidata, atuando como baterista da <a href="https://www.instagram.com/bandarockstone/">@bandarockstone</a> e trabalho atualmente com Técnico em Informática.
 
 Dev em formação a procura de oportunidades!
 
