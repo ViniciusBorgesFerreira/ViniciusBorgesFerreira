@@ -8,18 +8,12 @@
 
 Meu nome é Vinicius Ferreira, 28, Desenvolvedor Full Stack em formação!
 
-- :office_worker: Desenvolvedor Full Stack no [**Curso Ênfase**](https://cursoenfase.com.br/)
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: AWS, Relay & GraphQL
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
 ---
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-  
+
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
@@ -43,4 +37,4 @@ Meu nome é Vinicius Ferreira, 28, Desenvolvedor Full Stack em formação!
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
 </div></br>
  
-</details>
+
